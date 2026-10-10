@@ -16,6 +16,33 @@
 
 ---
 
+## 👥 Meet Our Team
+
+<div align="center">
+
+### 🚀 Team HeatCare AI
+
+*Building smarter healthcare preparedness through AI and data.*
+
+| Role | Name |
+|:---:|:---|
+| 👑 **Team Lead** | **Sahil Pawar** |
+| 💻 Team Member | Sanchita Jadhav |
+| 💻 Team Member | Richal Gole |
+| 💻 Team Member | Om Gate |
+
+<br/>
+
+**Hackathon Problem ID:** HC-02  
+**Project:** HeatCare AI  
+**Domain:** AI · Healthcare · Climate Resilience
+
+</div>
+
+---
+
+---
+
 ## 🎯 Problem Statement
 
 Extreme heat can increase heat-related illnesses and emergency visits, putting pressure on hospital beds, medical staff, and essential resources.
