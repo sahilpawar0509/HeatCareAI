@@ -1,0 +1,51 @@
+{
+  "medicines": [
+    {
+      "id": 1,
+      "name": "Oral Rehydration Salts (ORS)",
+      "category": "Rehydration",
+      "quantity": 240,
+      "unit": "sachets",
+      "minimum_stock": 80,
+      "expiry_date": ""
+    },
+    {
+      "id": 2,
+      "name": "Normal Saline 0.9%",
+      "category": "IV Fluids",
+      "quantity": 160,
+      "unit": "bottles",
+      "minimum_stock": 50,
+      "expiry_date": ""
+    },
+    {
+      "id": 3,
+      "name": "Paracetamol",
+      "category": "Emergency Medicines",
+      "quantity": 300,
+      "unit": "tablets",
+      "minimum_stock": 100,
+      "expiry_date": ""
+    },
+    {
+      "id": 4,
+      "name": "Cooling Packs",
+      "category": "Cooling & First Aid",
+      "quantity": 45,
+      "unit": "packs",
+      "minimum_stock": 20,
+      "expiry_date": ""
+    },
+    {
+      "id": 5,
+      "name": "IV Cannula",
+      "category": "Medical Supplies",
+      "quantity": 75,
+      "unit": "units",
+      "minimum_stock": 30,
+      "expiry_date": ""
+    }
+  ],
+  "updated_at": "2026-10-09T23:50:32.724743+00:00",
+  "demo_data": true
+}

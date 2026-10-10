@@ -1,0 +1,46 @@
+{
+  "resources": [
+    {
+      "id": 1,
+      "name": "Oxygen cylinders",
+      "category": "Medical gas",
+      "quantity": 48,
+      "unit": "cylinders",
+      "minimum_stock": 20
+    },
+    {
+      "id": 2,
+      "name": "Portable ventilators",
+      "category": "Critical equipment",
+      "quantity": 12,
+      "unit": "units",
+      "minimum_stock": 6
+    },
+    {
+      "id": 3,
+      "name": "PPE kits",
+      "category": "Protective supplies",
+      "quantity": 160,
+      "unit": "kits",
+      "minimum_stock": 50
+    },
+    {
+      "id": 4,
+      "name": "ORS packets",
+      "category": "Hydration supplies",
+      "quantity": 240,
+      "unit": "packets",
+      "minimum_stock": 80
+    },
+    {
+      "id": 5,
+      "name": "Cooling units",
+      "category": "Cooling equipment",
+      "quantity": 8,
+      "unit": "units",
+      "minimum_stock": 4
+    }
+  ],
+  "updated_at": "2026-10-09T23:49:15.329933+00:00",
+  "demo_data": true
+}

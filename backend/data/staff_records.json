@@ -1,0 +1,60 @@
+{
+  "staff": [
+    {
+      "id": 1,
+      "name": "Dr. Asha Kulkarni",
+      "role": "Medical Officer",
+      "department": "Emergency",
+      "shift": "Morning",
+      "status": "On Duty",
+      "phone": ""
+    },
+    {
+      "id": 2,
+      "name": "Rahul Patil",
+      "role": "Staff Nurse",
+      "department": "ICU",
+      "shift": "Night",
+      "status": "On Duty",
+      "phone": ""
+    },
+    {
+      "id": 3,
+      "name": "Priya Sharma",
+      "role": "Staff Nurse",
+      "department": "General Ward",
+      "shift": "Evening",
+      "status": "On Leave",
+      "phone": ""
+    },
+    {
+      "id": 4,
+      "name": "Sameer Jadhav",
+      "role": "Paramedic",
+      "department": "Emergency",
+      "shift": "Morning",
+      "status": "Available",
+      "phone": ""
+    },
+    {
+      "id": 5,
+      "name": "Neha Deshmukh",
+      "role": "Technician",
+      "department": "Laboratory",
+      "shift": "Evening",
+      "status": "Available",
+      "phone": ""
+    },
+    {
+      "id": 6,
+      "name": "yashi",
+      "role": "Staff Nurse",
+      "department": "Emergency",
+      "shift": "Morning",
+      "status": "Available",
+      "phone": ""
+    }
+  ],
+  "updated_at": "2026-10-09T23:50:12.604829+00:00",
+  "demo_data": false
+}
